@@ -1,2 +1,3 @@
 My 1st lab
 Test text to git file
+ Add new text to file
